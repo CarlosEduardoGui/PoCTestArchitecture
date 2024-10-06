@@ -1,0 +1,6 @@
+@PoCTestArchitecture_HostAddress = http://localhost:5072
+
+GET {{PoCTestArchitecture_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
