@@ -1,4 +1,4 @@
-namespace PoCTestArchitecture;
+namespace PoCTestArchitecture.Api;
 
 public class WeatherForecast
 {
