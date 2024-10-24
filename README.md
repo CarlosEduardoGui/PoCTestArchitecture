@@ -44,10 +44,10 @@ Para executar os testes de arquitetura incluídos neste projeto, siga as instru�
 Os testes serão executados e você verá os resultados no console.
 
 ## Referências
-1. (NetArchTest Nuget)[https://github.com/BenMorris/NetArchTest]
-2. (Architecture tests in.NET)[https://medium.com/@v.cheshmy/architecture-tests-in-net-d95192faf2dd]
-3. (Maintaining Architectural Integrity in .Net projects with NetArchTest)[https://medium.com/@sugumar.p/maintaining-architectural-integrity-in-net-projects-with-netarchtest-31a08e6a5788]
-4. (Enforcing Software Architecture With Architecture Tests)[https://www.milanjovanovic.tech/blog/enforcing-software-architecture-with-architecture-tests]
+1. [.NetArchTest Nuget](https://github.com/BenMorris/NetArchTest)
+2. [Architecture tests in.NET](https://medium.com/@v.cheshmy/architecture-tests-in-net-d95192faf2dd)
+3. [Maintaining Architectural Integrity in .Net projects with NetArchTest](https://medium.com/@sugumar.p/maintaining-architectural-integrity-in-net-projects-with-netarchtest-31a08e6a5788)
+4. [Enforcing Software Architecture With Architecture Tests](https://www.milanjovanovic.tech/blog/enforcing-software-architecture-with-architecture-tests)
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorias ou novas funcionalidades.
